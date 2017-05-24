@@ -90,7 +90,10 @@
 	font-weight: 200;
 }
 @media only screen and (max-width: 300px) {
-     .main-title{
-	  font-size:100;	
-      }
+	.demo-1 .main-title{
+    text-transform: uppercase;
+    font-size: 18px;
+    letter-spacing: 0.1em;
+}
+     
 }
